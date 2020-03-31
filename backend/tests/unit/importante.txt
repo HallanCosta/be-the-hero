@@ -1,0 +1,7 @@
+O teste unitario testa algo que é proprio da nossa aplicação,
+que não enconsta em qualquer outro tipo de conexão.
+
+ele testa algo muito expecifico e isolado da nossa aplicação.
+
+ele não vai enconstar em banco de dados, ele não vai chamar uma outra api
+ele não vai ter sideEffects(efeitos colaterais).
